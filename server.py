@@ -1,4 +1,4 @@
-#Coded by Yashraj Singh Chouhan
+
 import socket, threading                                                #Libraries import
 
 host = input("enter the ip address of host")

@@ -1,4 +1,4 @@
-#Coded by Yashraj Singh Chouhan
+
 import socket, threading
 import winsound
 
